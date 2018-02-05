@@ -134,7 +134,12 @@ const guideListConfig = {
           baseUrl: '/guides/chat/cloud-event-hook/',
           languages: ['python', 'js']
         },
-
+        {
+          title: 'Skygear Chat UI Kit',
+          description: 'UIKit of Skygear Chat',
+          baseUrl: '/guides/chat/uikit/',
+          languages:['ios', 'android'],
+        },
       ],
     },
     {
